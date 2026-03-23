@@ -1,0 +1,1 @@
+# -Embedded-IoT-Framework-for-Fraud-Detection-in-Commercial-Weighing-Scale
